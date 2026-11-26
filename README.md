@@ -13,7 +13,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-![Platform](https://img.shields.io/badge/platform-çapraz_platform-6E56CF?style=flat-square)
+![Platform](https://img.shields.io/badge/platform-%C3%A7apraz_platform-6E56CF?style=flat-square)
 ![Platformlar](https://img.shields.io/badge/desteklenen-7_platform-E4405F?style=flat-square)
 
 <br>
