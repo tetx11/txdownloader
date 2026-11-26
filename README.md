@@ -6,15 +6,15 @@
 
 7 popüler sosyal medya platformundan yüksek çözünürlüklü video ve ses indirme
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flet](https://img.shields.io/badge/Flet-0175C2?style=for-the-badge&logo=flutter&logoColor=white)
-![yt-dlp](https://img.shields.io/badge/yt--dlp-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](badges/python.svg)
+![Flet](badges/flet.svg)
+![yt-dlp](badges/yt-dlp.svg)
+![PHP](badges/php.svg)
+![HTML5](badges/html5.svg)
+![CSS3](badges/css3.svg)
 
-![Platform](https://img.shields.io/badge/platform-%C3%A7apraz_platform-6E56CF?style=flat-square)
-![Platformlar](https://img.shields.io/badge/desteklenen-7_platform-E4405F?style=flat-square)
+![Platform](badges/platform.svg)
+![Platformlar](badges/platformlar.svg)
 
 <br>
 
